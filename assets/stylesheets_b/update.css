@@ -1,0 +1,91 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.l_fb {display:none!important;}
+.section-container h2 { letter-spacing:normal;}
+
+table, table tr, table tr td {border:none;}
+
+
+.error {color:red!important; border: 1px solid red!important;}
+
+.apart-hover {display:block; background-color:#ddc2a5!important;}
+
+
+.get-pdf	{display:block; width:35px; height:60px; margin-top:50px; background:url(../images/pobierz.png) no-repeat; background-size:100%; z-index:1000; float:right!important; text-decoration:none;}
+
+.white {background:white!important;}
+
+.white h2 {color:#c49867!important; background-color:white!important; display:none;}
+ 
+
+ .mobile {display:none;}
+ .desktop {display:inline;}
+ 
+ 
+ 
+  .parallax-window {height:400px!important;}
+ 
+ 
+ 
+ 
+ @media only screen and (max-width: 1024px) {
+	 #swiper_2 {margin-top:0px!important;}
+	 .mobile {display:inline;}
+ .desktop {display:none;}
+ 
+ 
+ .level .row .eight {width:100%; margin:0px 15px;}
+ .level-content .six,
+ .level-content .seven,
+ .level-content .five {width:48%!important;}
+  .level-content .level-name {margin:10px 0px!important;}
+  
+.opis_lok {margin:0px 15px!important;}  
+.parallax-window {height:260px!important;}
+ 
+	}
+
+ @media only screen and (max-width: 768px) {
+	 .subhouse {display:none;}
+	  .mobile {display:inline;}
+ .desktop {display:none;}
+ 
+  .level .row .eight {width:100%; margin:0px 15px;}
+ .level-content .six,
+ .level-content .seven,
+ .level-content .five {width:48%!important;}
+ .level-content .level-name {margin:10px 0px!important;}
+ .parallax-window {height:200px!important;}
+	}
+
+
+
+
+
+
+@media only screen and (min-width: 2000px) {
+	 .parallax-window {min-height:500px!important;}
+	}
+
+
+
+
+.rezydencja {position:relative; width:100%;}
+.rezydencja {background:none!important;}
+.rezydencja img	{display:block; margin:0px; padding:0px; width:100%;}
+.rezydencja table,
+.rezydencja table tr,
+.rezydencja table tr td {padding:0px; margin:0px;}
+
+.rezydencja a		{color:#222222; text-decoration:none;}
+
+.rezydencja table tr:hover a {color:#c49867;}
+.rezydencja table tr:hover img {opacity:0.7;}
+
+
+
+
+
+.flr:hover, .close:hover {text-decoration:underline!important; opacity:0.9!important;}

@@ -1,0 +1,75 @@
+.slide1 {
+  padding-top: 170px;
+  background: url(../images/slider_top.jpg) no-repeat;
+  background-size: cover;
+  width: 100%;
+  min-height: 1000px;
+  text-align: center; }
+  .slide1 h3 {
+    margin-top: 163px;
+    font-size: 45px;
+    color: #c49867;
+    line-height: 50px;
+    font-family: butler;
+    font-weight: 600;
+    margin-bottom: 73px; }
+    .slide1 h3 span {
+      font-size: 24px; }
+  .slide1 .more {
+    color: #fff;
+    line-height: 42px;
+    border: 4px solid #fff;
+    text-transform: uppercase;
+    font-size: 11px;
+    display: inline-block;
+    text-decoration: none;
+    padding: 0 58px; }
+
+.swiper-button-prev {
+  position: absolute;
+  left: 30px;
+  top: 50%;
+  background: url(../images/prev.png);
+  width: 38px;
+  margin-top: -31px;
+  height: 62px;
+  cursor: pointer; }
+
+.swiper-button-next {
+  position: absolute;
+  right: 30px;
+  top: 50%;
+  margin-top: -31px;
+  background: url(../images/next.png);
+  width: 38px;
+  height: 62px;
+  cursor: pointer; }
+
+.swiper-pagination {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+  z-index: 20; }
+  .swiper-pagination .swiper-pagination-switch {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin: 0 5px;
+    cursor: pointer;
+    position: relative; }
+    .swiper-pagination .swiper-pagination-switch:before {
+      width: 100%;
+      height: 4px;
+      content: '';
+      background: rgba(255, 255, 255, 0.5);
+      display: block;
+      margin-top: 8px; }
+    .swiper-pagination .swiper-pagination-switch.swiper-active-switch:before {
+      background: white; }
+
+@media only screen and (max-width: 768px) {
+  #swiper_1 .swiper-container {
+    margin: 0; } }
+
+/*# sourceMappingURL=slider_top.css.map */

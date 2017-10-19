@@ -1,0 +1,1233 @@
+<!DOCTYPE html>
+<!--[if lte IE 9]>
+<html class="no-js lt-ie9" lang="pl"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="pl"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+<META HTTP-EQUIV="EXPIRES" CONTENT="Mon, 22 Jul 2002 11:12:01 GMT">
+    
+    <title>
+        Rezydencja Fryderyk
+    </title>
+
+    <!-- SEO -->
+    <link rel="canonical" href="http://rezydencjafryderyk.pl">
+    <meta name="description" content="Rezydencja Fryderyk to ekskluzywny budynek apartamentowy w sercu Mokotowa. Gwarantuje kameralność przy optymalnym koszcie eksploatacji budynku.">
+    <meta name="keywords" content="apartamenty mokotów,apartamenty Warszawa,rezydencja,apartamenty,ekskluzywna lokalizacja,Fryderyka Joliot-Curie,Joliot-Curie,Warszawa">
+    <meta property="fb:app_id" content="" />
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+    <meta name="google-site-verification" content="google41a1aa3352f04e70" />
+    
+    
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/manifest.json">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="apple-mobile-web-app-title" content="Rezydencja Fryderyk">
+	<meta name="application-name" content="Rezydencja Fryderyk">
+	<meta name="theme-color" content="#ffffff">
+    <!-- END SEO -->
+
+    <link rel="shortcut icon" href="" type="image/x-icon" />
+    <link rel="apple-touch-icon" sizes="57x57" href="">
+    <link rel="apple-touch-icon" sizes="60x60" href="">
+    <link rel="apple-touch-icon" sizes="72x72" href="">
+    <link rel="apple-touch-icon" sizes="76x76" href="">
+    <link rel="apple-touch-icon" sizes="114x114" href="">
+    <link rel="apple-touch-icon" sizes="120x120" href="">
+    <link rel="apple-touch-icon" sizes="144x144" href="">
+    <link rel="apple-touch-icon" sizes="152x152" href="">
+    <link rel="apple-touch-icon" sizes="180x180" href="">
+    <link rel="icon" type="image/png" href="" sizes="192x192">
+    <meta name="msapplication-square70x70logo" content="" />
+    <meta name="msapplication-square150x150logo" content="" />
+    <meta name="msapplication-wide310x150logo" content="" />
+    <meta name="msapplication-square310x310logo" content="" />
+    <link rel="stylesheet" href="assets/stylesheets/app.css?67fa9e7fgdfgfdgfdgffdsfdsfdgfdgdfgfdgfdfdsfsdfdsfddfddfsdfdsfds" type="text/css" />
+    <link rel="stylesheet" href="assets/stylesheets/update.css?jfjhgfgfyg" type="text/css" />
+    <script data-main="assets/javascripts/app.js" src="assets/javascripts/require.js?67fa9e7fgdfgfdgfdgfdgfdgdfgfdgfdfdfdfdfdvsdfdsfdsffdsfdsfdsdfdsfdsfdsfdss"></script>
+    
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85515467-1', 'auto');
+  ga('send', 'pageview');
+
+</script>   
+   
+    
+    
+</head>
+<body>
+<div class="hide_vertical">
+<header id="header">
+    <nav id="nav-global">
+        <h1><img src="assets/images/logo.png" alt="Logo Rezydencja Fryderyk"></h1>
+        <ul>
+            <li><a href="#" data-href="rezydencje">Rezydencja</a></li>
+            <li><a href="#" data-href="mokotow">Mokotów</a></li>
+            <li><a href="#" data-href="klasyczna_elegancja">klasyczna elegancja</a></li>
+            <li><a href="#" data-href="apartamenty">Apartamenty</a></li>
+            <li><a href="#" data-href="penthouse">Penthouse</a></li>
+            <li><a href="#" data-href="fitout">Fitout</a></li>
+            <li><a href="#" data-href="inwestor_architekt">Inwestor/Architekt</a></li>
+            <li><a href="#" data-href="broszury">Broszury</a></li>
+            <li><a href="#" data-href="kontakt">Kontakt</a></li>
+            <!--<li class="last"><a href="#">Zaloguj</a></li>-->
+            <li><a href="#" onClick="window.open('https://www.instagram.com/rezydencjafryderyk/', '_blank');"  class="social-small-icon" target="_blank" style="position:absolute; z-index:9999; top:10px;"><img src="assets/images/insta.png" width="16" height="16"></a></li>
+            <li><a href="#" onClick="window.open('https://www.facebook.com/RezydencjaFryderyk', '_blank');"  class="social-small-icon" target="_blank" style="position:absolute; z-index:9999; top:10px;"><img src="assets/images/fb.png" width="16" height="16"></a></li>
+        </ul>
+        
+       		
+      <button class="nav-toggle">
+          <img src="assets/images/menu_mobile.png" alt="menu mobile">
+      </button>
+    </nav>
+    <a href="#" onClick="window.open('https://www.instagram.com/rezydencjafryderyk/', '_blank');"  class="social-small-icon2" target="_blank" style="position:absolute; z-index:9999; top:10px; right:130px;"><img src="assets/images/insta.png" width="16" height="16"></a>
+            <a href="#" onClick="window.open('https://www.facebook.com/RezydencjaFryderyk', '_blank');"  class="social-small-icon2" target="_blank" style="position:absolute; z-index:9999; top:10px; right:100px;"><img src="assets/images/fb.png" width="16" height="16"></a>
+</header>
+
+
+
+
+
+
+
+<div style="height:29px;">&nbsp;</div>
+
+
+<section id="swiper_1" style="padding-bottom:0px; margin-bottom:0px;max-height:auto!important;height:auto!important; position:relative;"><div id="sothebys">&nbsp;</div>
+    <div class="swiper-container">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper" style="max-height:auto!important; height:auto!important;">
+            <!-- Slides -->
+            
+            
+            
+            <div class="swiper-slide">
+                <a href="#" data-href="rezydencje"><img src="assets/images/slide-1.jpg" alt="Rezydencja Fryderyk - wejście" style="width:100%; height:auto;"></a>
+            </div>
+           
+            
+            
+            <div class="swiper-slide">
+                <a href="#" data-href="mokotow"><img src="assets/images/slide-2.jpg" alt="kasztanowiec" style="width:100%; height:auto;"></a>
+            </div>
+            
+          
+            
+            
+             <div class="swiper-slide">
+                <a href="#" data-href="klasyczna_elegancja"  ><img src="assets/images/slide-3.jpg" alt="marmur" style="width:100%; height:auto;"></a>
+            </div>
+            
+            
+            
+            
+            
+            
+             <div class="swiper-slide">
+               <a href="#" data-href="inwestor_architekt" ><img src="assets/images/slide-4.jpg" alt="Jaromor Szmyd" style="width:100%; height:auto;"></a>
+            </div>
+            
+   
+            
+            
+            
+        </div>
+        <!-- If we need pagination -->
+        <div class="swiper-pagination"></div>
+
+        <!-- If we need navigation buttons -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+
+        <!-- If we need scrollbar -->
+        <div class="swiper-scrollbar"></div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="swiper_2" class="swiper_3" data-link="rezydencja" style="margin-top:-80px; padding-bottom:30px;">
+
+    <div class="section-container">
+        <h2 data-link="rezydencje"><span class="text">REZYDENCJA  FRYDERYK</span><span class="line"></span></h2>
+        <div class="swiper-container">
+            <!-- Additional required wrapper -->
+            <div class="swiper-wrapper slider">
+                <!-- Slides -->
+                <div class="swiper-slide">
+                    <div class="slide_mouse">
+                        <div class="slide_mouse_over"><img src="assets/images/RezydencjaFryderyk_1B.jpg" alt="Rezydencja Fryderyk - za drzewami"></div>
+                        <img src="assets/images/RezydencjaFryderyk_1A.jpg" alt="Rezydencja Fryderyk - bez drzew">
+
+                    </div>
+                    <div class="slider_move"></div>
+                </div>
+                
+                
+                
+                <div class="swiper-slide">
+                    <div class="slide_mouse">
+                        <div class="slide_mouse_over"><img src="assets/images/RezydencjaFryderyk_2B.jpg" alt="Rezydencja Fryderyk - za drzewami"></div>
+                        <img src="assets/images/RezydencjaFryderyk_2A.jpg" alt="Rezydencja Fryderyk - bez drzew">
+                    </div>
+                    <div class="slider_move"></div>
+                </div>
+                
+                <div class="swiper-slide">
+                    <div class="slide_mouse">
+                        <div class="slide_mouse_over"><img src="assets/images/RezydencjaFryderyk_3B.jpg" alt="Rezydencja Fryderyk - za drzewami"></div>
+                        <img src="assets/images/RezydencjaFryderyk_3A.jpg" alt="Rezydencja Fryderyk - bez drzew">
+                    </div>
+                    <div class="slider_move"></div>
+                </div>
+                
+                
+                
+                <div class="swiper-slide">
+                    <div>
+                        <img src="assets/images/RezydencjaFryderyk_4.jpg" alt="Rezydencja Fryderyk - widok z tyłu">
+                    </div>
+                </div>
+                
+                <div class="swiper-slide">
+                    <div>
+                        <img src="assets/images/RezydencjaFryderyk_5.jpg" alt="Rezydencja Fryderyk - ogród">
+                    </div>
+                </div>
+                
+                 <div class="swiper-slide">
+                    <div>
+                        <img src="assets/images/RezydencjaFryderyk_6.jpg" alt="Rezydencja Fryderyk - front">
+                    </div>
+                </div>
+                
+                <div class="swiper-slide">
+                    <div class="slide_mouse">
+                        <div class="slide_mouse_over"><img src="assets/images/RezydencjaFryderyk_7B.jpg" alt="Rezydencja Fryderyk - za drzewami - wieczór"></div>
+                        <img src="assets/images/RezydencjaFryderyk_7A.jpg" alt="Rezydencja Fryderyk - bez drzew - wieczór">
+                    </div>
+                    <div class="slider_move"></div>
+                </div>
+                
+                <div class="swiper-slide">
+                    <div class="slide_mouse">
+                        <div class="slide_mouse_over"><img src="assets/images/RezydencjaFryderyk_8B.jpg" alt="Rezydencja Fryderyk - za drzewami - wieczór - front"></div>
+                        <img src="assets/images/RezydencjaFryderyk_8A.jpg" alt="Rezydencja Fryderyk - bez drzew - wieczór - front">
+                    </div>
+                    <div class="slider_move"></div>
+                </div>
+                
+                
+                <div class="swiper-slide">
+                    <div>
+                        <img src="assets/images/RezydencjaFryderyk_6.jpg" alt="Rezydencja Fryderyk - front">
+                    </div>
+                </div>
+                
+            </div>
+            <!-- If we need pagination -->
+
+
+            <!-- If we need navigation buttons -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+
+            <!-- If we need scrollbar -->
+            <div class="swiper-scrollbar"></div>
+        </div>
+        <div class="swiper-pagination"></div>
+        
+        
+        
+        
+        <div class="section_content row" style="margin-top:30px;">
+            <div class="six columns">
+                <p><strong>Rezydencja Fryderyk</strong> to ekskluzywny budynek apartamentowy w sercu Mokotowa.
+                Charakter międzywojennych kamienic Mokotowa zaprojektowanych w stylu modernizmu był główną inspiracją dla twórców Rezydencji Fryderyk. Wówczas nowoczesny styl modernizmu, obecnie ma charakter wręcz klasyczny, a nieliczne kamienice Mokotowa, które przetrwały wojnę są egzemplifikacją elegancji i dobrego smaku. Inspiracje modernistycznymi kamienicami Mokotowa znalazły swój wyraz w bryle budynku z charakterystyczną formą zaokrąglonych narożników, a także w klasycznym detalu architektonicznym balkonów oraz
+                elewacji ze zróżnicowaną fakturą kamienia.</p>
+            </div>
+            <div class="six columns">
+                <p><strong>Rezydencja Fryderyk</strong> to zaledwie 46 apartamentów i 3 penthousy. Skala Rezydencji Fryderyk gwarantuje kameralność i poczucie wyjątkowości dla mieszkańców, a jednocześnie
+                zapewnia optymalizację kosztów przyszłej eksploatacji budynku.
+                W Rezydencji Fryderyk znajduje się dwupoziomowy garaż podziemny z 74 miejscami parkingowymi i komórkami lokatorskimi. Rezydencja Fryderyk to współczesne wydanie
+                klasycznej mokotowskiej kamienicy otoczonej pięknym starodrzewem.</p>
+            </div>
+        </div>
+        
+        
+        
+        
+        
+    </div>
+</section> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="parallax-window"  style="background-image:url(assets/images/paralaksa_1.jpg)"></section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="swiper_5" class="swiper_3" style="padding-bottom:20px; margin-top:30px;">
+
+	<div class="section-container">
+		<h2 data-link="mokotow"><span class="text">MOKOTÓW</span><span class="line"></span></h2>
+    </div>
+
+    <div class="swiper-container">
+        <!-- Additional required wrapper -->
+        <div class="swiper-wrapper">
+            <!-- Slides -->
+            
+            
+            
+            
+            
+            
+            
+            <div class="swiper-slide "><img src="assets/images/slide-5.jpg" alt="Rezydencja Fryderyk - lokalizacja - widok satelitarny" style="width:100%; height:auto;"></div>
+            <div class="swiper-slide "><img src="assets/images/slide-6.jpg" alt="Rezydencja Fryderyk - widok w kierunku centrum" style="width:100%; height:auto;"></div>
+            <div class="swiper-slide "><img src="assets/images/slide-7.jpg" alt="Rezydencja Fryderyk - Pole Mokotowskie" style="width:100%; height:auto;"></div>
+            <div class="swiper-slide "><img src="assets/images/slide-8.jpg" alt="Rezydencja Fryderyk - Ogród Jordanowski przy Odyńca 6" style="width:100%; height:auto;"></div>
+            
+            
+            
+    
+            
+            
+            
+            
+        </div>
+        <!-- If we need pagination -->
+        <div class="swiper-pagination"></div>
+
+        <!-- If we need navigation buttons -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+
+        <!-- If we need scrollbar -->
+        <div class="swiper-scrollbar"></div>
+        
+        
+        
+        <Br>
+        
+    </div>
+
+	<div class="section-container">
+	<div class="section_content row" style="color:black;">
+            <div class="six columns">
+                <p><strong>Stary Mokotów </strong> to synonim najlepszego miejsca do życia dla każdego warszawiaka. Klasyczny układ kwartałowej zabudowy. Ulice wysadzane starymi drzewami. Najlepsze warszawskie szkoły. Doskonała komunikacja. Parki. Usługi. To po prostu idealny adres. Mokotów, a w szczególności rejony ulic Odyńca i Malczewskiego to nie tylko prestiż, ale przede wszystkim miejska wygoda w otoczeniu parkowej ciszy. </p>
+            </div>
+            <div class="six columns">
+                <p><strong>Ulica Fryderyka Joliot Curie </strong> to kameralna, obsadzona starodrzewem aleja łącząca znane mokotowskie ulice Odyńca i Malczewskiego. Rezydencja Fryderyk jest dopełnieniem zabytkowego zespołu urbanistycznego z lat 50 ubiegłego wieku o charakterze zabudowy kwartałowej z zielonymi dziedzińcami. Dzięki temu Rezydencja Fryderyk tonie w zieleni i jest otoczona kilkudziesięcioletnimi, wysokimi drzewami zapewniającymi ciszę i piękne, wręcz parkowe, widoki z okien wszystkich apartamentów. </p>
+            </div>
+        </div>
+        </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="swiper_3 swiper_gold" id="klasyczna" style="padding-bottom:30px;">
+    <div class="section-container">
+        <h2 data-link="klasyczna_elegancja"><span class="text">KLASYCZNA ELEGANCJA</span><span class="line"></span></h2>
+        
+        
+        
+        
+                        <div class="swiper-container">
+                            <!-- Additional required wrapper -->
+                            <div class="swiper-wrapper">
+                                <!-- Slides -->
+                                <div class="swiper-slide">
+                                    <img src="assets/images/fryderyk.jpg" alt="Rezydencja Fryderyk - wejście">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img src="assets/images/fryderyk2.jpg" alt="Rezydencja Fryderyk - lobby">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img src="assets/images/fryderyk3.jpg" alt="Rezydencja Fryderyk - narożnik od frontu">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img src="assets/images/fryderyk4.jpg" alt="Rezydencja Fryderyk - wejście - zbliżenie">
+                                </div>
+                                <div class="swiper-slide">
+                                    <img src="assets/images/fryderyk5.jpg" alt="Rezydencja Fryderyk - ogród">
+                                </div>
+                            </div>
+                            <!-- If we need pagination -->
+                
+                
+                            <!-- If we need navigation buttons -->
+                            <div class="swiper-button-prev"></div>
+                            <div class="swiper-button-next"></div>
+                
+                            <!-- If we need scrollbar -->
+                            <div class="swiper-scrollbar"></div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                        <br>
+</div>
+
+
+	<div class="section-container">
+	<div class="section_content row" style="color:black;">
+            <div class="six columns">
+                 <p align="justify">Rezydencja Fryderyk to nowoczesne wydanie  klasycznej elegancji. Strefa wejścia oraz lobby są kwintesencją reprezentacyjnego charakteru Rezydencji Fryderyk. Elegancka forma osiowego frontonu wejściowego z drzwiami z charakterystycznym usłojeniem drewna i kutą kratą nawiązuje nie tylko do najlepszych wzorców kamienic Mokotowa, ale także Mediolanu czy Paryża. Lobby wejściowe to przestrzeń zaprojektowana z wyjątkową starannością i dbałością o detal. Charakterystyczny rysunek posadzki kamiennej, drewniane okładziny, oświetlenie</p>
+            </div>
+            <div class="six columns">
+                <p align="justify">oraz ściana wykonana z wielkoformatowych slabów marmuru Carrara nadają ton wnętrzu, gdzie mieszkańcy i ich goście poczują się wyjątkowo. W takim samym stylu, co lobby wejściowe zostały zaprojektowane wnętrza wind, przestrzenie wspólne na każdym piętrze mieszkalnym, a także na poziomie garaży podziemnych. W lobby znajduje się miejsce dla portiera, które jest połączone z pomieszczeniem ochrony, która dzięki nowoczesnemu systemowi monitoringu zapewnia bezpieczeństwo przyszłym mieszkańcom.</p>
+            </div>
+        </div>
+        </div>
+</section>
+
+
+
+
+
+
+
+
+<section class="parallax-window"  style="background-image:url(assets/images/paralaksa_2.jpg)"></section>
+<section class="swiper_3 swiper_white" style="padding-bottom:20px;">
+    <div class="section-container">
+        <h2 data-link="apartamenty"><span class="text">APARTAMENTY</span><span class="line"></span></h2>
+        <div class="swiper-container">
+            <!-- Additional required wrapper -->
+            <div class="swiper-wrapper">
+                <!-- Slides -->
+                <div class="swiper-slide">
+                    <img src="assets/images/RF_01_20160902.jpg" alt="Rezydencja Fryderyk - wnętrze 1">
+                </div>
+                <div class="swiper-slide">
+                    <img src="assets/images/RF_02_20160902.jpg" alt="Rezydencja Fryderyk - wnętrze 2">
+                </div>
+                <div class="swiper-slide">
+                    <img src="assets/images/RF_03_20160902.jpg" alt="Rezydencja Fryderyk - wnętrze 3">
+                </div>
+                <div class="swiper-slide">
+                    <img src="assets/images/RF_04_20160902.jpg" alt="Rezydencja Fryderyk - wnętrze 4">
+                </div>
+            </div>
+            <!-- If we need pagination -->
+
+
+            <!-- If we need navigation buttons -->
+            <div class="swiper-button-prev"></div>
+            <div class="swiper-button-next"></div>
+
+            <!-- If we need scrollbar -->
+            <div class="swiper-scrollbar"></div>
+        </div>
+        <div class="swiper-pagination"></div>
+        <br></div>
+        
+	<div class="section-container">
+	<div class="section_content row" style="color:black;">    
+        
+            <div class="six columns">
+                <p align="justify">Rezydencja Fryderyk to przede wszystkim komfortowe i funkcjonalnie zaprojektowane apartamenty. Charakteryzują się wyraźnym oddzieleniem strefy dziennej i nocnej oraz regularnymi proporcjami pomieszczeń. Każdy apartament posiada balkon lub loggie, których przestronność i wymiary są zbliżone do parametrów tarasów, co zostało podkreślone  poprzez zastosowanie na nich desek tarasowych. <br>
+Wszystkie apartamenty posiadają duże, panoramiczne przeszklenia dzięki czemu są pełne światła słonecznego, a przestronne balkony stają się naturalnym przedłużeniem pokoi. </p>
+            </div>
+            <div class="six columns">
+                <p align="justify">Zaprojektowanie dużych przeszkleń było również uzasadnione tym, że z każdego apartamentu jest zapewniony niezakłócony widok na otaczająca zieleń i drzewa bez efektu zaglądania sąsiadowi w okno. Apartamenty posiadają ponadstandardową wysokość ponad 280 cm po wykończeniu.
+Rezydencja Fryderyk to apartamenty od 2 pokojowych do 5 pokojowych o powierzchni od 40 do 130 m2.</p>
+            </div>
+        </div>
+        <div class="select_apart" style="margin-top:-20px;">
+            <h2><span class="text">WYBIERZ APARTAMENT</span><span class="line"></span></h2>
+            <h3>ELEWACJA BUDYNKU <span>(WYBIERZ POZIOM MIESZKANIA)</span></h3>
+            <div class="rezydencja">
+            
+           	  
+              
+              <table border="0" cellpadding="0" cellspacing="0" style="width:100%!important; max-width:100%;">
+              
+              		<tr class="lh70">
+                    	<td valign="middle" align="left"><a href="#" data-id="6" data-name="penthouse">Piętro&nbsp;6&nbsp;&nbsp;&nbsp;<br><span class="subhouse">PENTHOUSE</span></a></td>
+                        <td align="right"><a href="#" data-id="6" data-name="penthouse"><img src="assets/images/level-penthouse.jpg" alt="Rezydencja Fryderyk - Penthouse"></a></td>
+                    </tr>
+                    
+                    <tr>
+                    	<td valign="middle" align="left"><a href="#" data-id="5" data-name="apartament">Piętro&nbsp;5&nbsp;&nbsp;&nbsp;</a></td>
+                        <td align="right"><a href="#" data-id="5" data-name="apartament"><img src="assets/images/level-pietro5.jpg" alt="Rezydencja Fryderyk - piętro 5"></a></td>
+                    </tr>
+                    
+                    <tr>
+                    	<td valign="middle" align="left"><a href="#" data-id="4" data-name="apartament">Piętro&nbsp;4&nbsp;&nbsp;&nbsp;</a></td>
+                        <td align="right"><a href="#" data-id="4" data-name="apartament"><img src="assets/images/level-pietro4.jpg" alt="Rezydencja Fryderyk - piętro 4"></a></td>
+                    </tr>
+                    
+                    <tr>
+                    	<td valign="middle" align="left"><a href="#" data-id="3" data-name="apartament">Piętro&nbsp;3&nbsp;&nbsp;&nbsp;</a></td>
+                        <td align="right"><a href="#" data-id="3" data-name="apartament"><img src="assets/images/level-pietro3.jpg" alt="Rezydencja Fryderyk - piętro 3"></a></td>
+                    </tr>
+                    
+                    <tr>
+                    	<td valign="middle" align="left"><a href="#" data-id="2" data-name="apartament">Piętro&nbsp;2&nbsp;&nbsp;&nbsp;</a></td>
+                        <td align="right"><a href="#" data-id="2" data-name="apartament"><img src="assets/images/level-pietro2.jpg" alt="Rezydencja Fryderyk - piętro 2"></a></td>
+                    </tr>
+                    
+                     <tr>
+                    	<td valign="middle" align="left"><a href="#" data-id="1" data-name="apartament">Piętro&nbsp;1&nbsp;&nbsp;&nbsp;</a></td>
+                        <td align="right"><a href="#" data-id="1" data-name="apartament"><img src="assets/images/level-pietro1.jpg" alt="Rezydencja Fryderyk - piętro 1"></a></td>
+                    </tr>
+                    
+                    <tr>
+                    	<td valign="middle" align="left"><a href="#" data-id="0" data-name="apartament">Parter&nbsp;&nbsp;&nbsp;</a></td>
+                        <td align="right"><a href="#" data-id="0" data-name="apartament"><img src="assets/images/level-parter.jpg" alt="Rezydencja Fryderyk - parter"></a></td>
+                    </tr>
+                    
+                    <tr>
+                    	<td valign="top" align="left" colspan="2"><img src="assets/images/level-base.jpg" alt="Rezydencja Fryderyk - poziom ulicy"></td>
+                    </tr>
+              
+              </table><br>
+              
+              
+
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
+
+
+
+
+
+    
+    
+    <section id="wrapper_select_count"> 
+    
+    
+    <section class="swiper_3 swiper_gold penthouse hide" > 
+    <div class="section-container2 opis_lok">
+        <h2><span class="text">WYBIERZ APARTAMENT</span><span class="line"></span></h2>
+        <div class="content_floor">
+        
+            
+            
+            
+            
+            <div data-id="5" class="hide level">
+            <div class="section-container">
+            	<div class="row"><a href="#" style="position:absolute; right:0px; color:black; text-decoration:none; z-index:3000;" class="flr">POWRÓT &lt;&lt;</a>
+                        <a href="assets/images/karty/RF_Pietro_5.pdf" class="get-pdf" style="position:absolute; right:0px;" target="_blank">&nbsp;</a>
+                	<div class="four columns level-content desktop"></div>
+                    <div class="eight columns">
+                    	
+                    	<p align="center">
+                        	<img src="assets/images/rzuty/pietro_5.png" alt="Rezydencja Fryderyk - rzut piętra 5" width="919" height="805" usemap="#map-pietro_5" class="responsive-map rzut-pietro_5">
+                            <map name="map-pietro_5" id="map-pietro_5">
+                                <area id="61" title="" href="javascript:void();" shape="poly" coords="384,403,514,403,515,576,389,572" />
+                                <area id="62" title="" href="javascript:void();" shape="poly" coords="516,400,749,403,747,570,518,576" />
+                                <area id="63" title="" href="javascript:void();" shape="poly" coords="639,574,868,580,866,760,642,760" />
+                                <area id="64" title="" href="javascript:void();" shape="poly" coords="514,601,638,601,640,761,515,761" />
+                                <area id="65" title="" href="javascript:void();" shape="poly" coords="385,601,512,600,511,758,387,764" />
+                                <area id="66" title="" href="javascript:void();" shape="poly" coords="258,602,385,603,386,764,255,760" />
+                                <area id="67" title="" href="javascript:void();" shape="poly" coords="224,527,257,530,257,760,70,759,69,593,91,579,89,473,73,472,72,426,93,427,90,412,227,411" />
+                                <area id="68" title="" href="javascript:void();" shape="poly" coords="90,409,90,396,74,398,75,354,95,354,90,153,110,154,108,113,244,110,244,151,260,153,255,276,255,302,225,322,227,410" />
+                                <area id="69" title="" href="javascript:void();" shape="poly" coords="254,416,382,414,388,244,405,244,403,154,262,154" />
+                            </map>
+                        </p>
+                    </div>
+                    <div class="four columns level-content mobile"></div>
+                </div>
+                </div>
+            </div>
+            
+            
+            
+            
+            <div data-id="4" class="hide level">
+            <div class="section-container">
+            	<div class="row"><a href="#" style="position:absolute; right:0px; color:black; text-decoration:none; z-index:3000;" class="flr">POWRÓT &lt;&lt;</a>
+                        <a href="assets/images/karty/RF_Pietro_4.pdf" class="get-pdf" style="position:absolute; right:0px;" target="_blank">&nbsp;</a>
+                	<div class="four columns level-content desktop"></div>
+                    <div class="eight columns">
+                    	
+                    	<p align="center">
+                        	<img src="assets/images/rzuty/pietro_4.png" alt="Rezydencja Fryderyk - rzut piętra 4" width="919" height="805" usemap="#map-pietro_4" class="responsive-map rzut-pietro_4">
+                            <map name="map-pietro_4" id="map-pietro_4">
+                                <area id="51" title="" href="javascript:void();" shape="poly" coords="385,402,514,402,513,568,386,573" />
+                                <area id="52" title="" href="javascript:void();" shape="poly" coords="515,404,748,400,746,573,515,569" />
+                                <area id="53" title="" href="javascript:void();" shape="poly" coords="639,575,871,580,866,758,641,760" />
+                                <area id="54" title="" href="javascript:void();" shape="poly" coords="511,601,638,603,638,759,511,760" />
+                                <area id="55" title="" href="javascript:void();" shape="poly" coords="384,598,510,601,510,762,382,758" />
+                                <area id="56" title="" href="javascript:void();" shape="poly" coords="258,602,381,600,381,759,259,760" />
+                                <area id="57" title="" href="javascript:void();" shape="poly" coords="224,526,261,529,257,762,66,758,65,593,91,471,73,468,75,424,92,411,226,408" />
+                                <area id="58" title="" href="javascript:void();" shape="poly" coords="76,409,75,351,96,353,87,152,108,152,110,111,243,112,247,151,259,151,258,299,225,322,226,404" />
+                                <area id="59" title="" href="javascript:void();" shape="poly" coords="260,151,405,154,408,247,389,246,383,414,254,412" />
+                            </map>
+                        </p>
+                    </div>
+                    <div class="four columns level-content mobile"></div>
+                </div>
+                </div>
+            </div>
+            
+            
+            
+            <div data-id="3" class="hide level">
+            <div class="section-container">
+            	<div class="row"><a href="#" style="position:absolute; right:0px; color:black; text-decoration:none; z-index:3000;" class="flr">POWRÓT &lt;&lt;</a>
+                        <a href="assets/images/karty/RF_Pietro_3.pdf" class="get-pdf" style="position:absolute; right:0px;" target="_blank">&nbsp;</a>
+                	<div class="four columns level-content desktop"></div>
+                    <div class="eight columns">
+                    	
+                    	<p align="center">
+                        	<img src="assets/images/rzuty/pietro_3.png" alt="Rezydencja Fryderyk - rzut piętra 3" width="919" height="805" usemap="#map-pietro_3" class="responsive-map rzut-pietro_3">
+                            <map name="map-pietro_3" id="map-pietro_3">
+                                <area id="41" title="" href="javascript:void();" shape="poly" coords="385,401,515,400,514,572,387,574" />
+                                <area id="42" title="" href="javascript:void();" shape="poly" coords="516,400,751,400,747,570,515,572" />
+                                <area id="43" title="" href="javascript:void();" shape="poly" coords="642,572,886,559,883,758,638,759" />
+                                <area id="44" title="" href="javascript:void();" shape="poly" coords="514,602,641,602,638,764,578,762,579,790,520,786" />
+                                <area id="45" title="" href="javascript:void();" shape="poly" coords="515,765,447,761,451,793,393,790,385,757,389,598,512,600" />
+                                <area id="46" title="" href="javascript:void();" shape="poly" coords="257,602,385,600,382,761,322,762,323,792,263,790" />
+                                <area id="47" title="" href="javascript:void();" shape="poly" coords="224,528,256,530,256,763,67,766,62,591,92,472,72,472,75,424,92,411,224,409" />
+                                <area id="48" title="" href="javascript:void();" shape="poly" coords="89,408,75,399,73,352,92,347,89,150,108,110,245,112,257,155,257,303,225,406" />
+                                <area id="49" title="" href="javascript:void();" shape="poly" coords="253,414,384,415,386,241,406,245,406,153,257,154" />
+                            </map>
+                        </p>
+                    </div>
+                    <div class="four columns level-content mobile"></div>
+                </div>
+                </div>
+            </div>
+            
+            
+            
+            
+            <div data-id="2" class="hide level">
+            <div class="section-container">
+            	<div class="row"><a href="#" style="position:absolute; right:0px; color:black; text-decoration:none; z-index:3000;" class="flr">POWRÓT &lt;&lt;</a>
+                        <a href="assets/images/karty/RF_Pietro_2.pdf" class="get-pdf" style="position:absolute; right:0px;" target="_blank">&nbsp;</a>
+                	<div class="four columns level-content desktop"></div>
+                    <div class="eight columns">
+                    	
+                    	<p align="center">
+                        	<img src="assets/images/rzuty/pietro_2.png" alt="Rezydencja Fryderyk - rzut piętra 2" width="919" height="805" usemap="#map-pietro_2" class="responsive-map  rzut-pietro_2">
+                            <map name="map-pietro_2" id="map-pietro_2">
+                                <area id="31" title="" href="javascript:void();" shape="poly" coords="384,403,515,405,512,577,386,574" />
+                                <area id="32" title="" href="javascript:void();" shape="poly" coords="515,404,748,401,748,573,516,572" />
+                                <area id="33" title="" href="javascript:void();" shape="poly" coords="638,574,887,558,882,757,643,762" />
+                                <area id="34" title="" href="javascript:void();" shape="poly" coords="513,598,638,602,641,767,577,762,578,791,518,789" />
+                                <area id="35" title="" href="javascript:void();" shape="poly" coords="386,601,513,603,515,766,454,761,450,791,391,792" />
+                                <area id="36" title="" href="javascript:void();" shape="poly" coords="257,600,384,601,386,765,321,761,325,792,264,791,257,757" />
+                                <area id="37" title="" href="javascript:void();" shape="poly" coords="254,764,65,762,66,590,94,593,93,472,75,469,73,424,94,424,95,411,228,412,255,532" />
+                                <area id="38" title="" href="javascript:void();" shape="poly" coords="227,410,74,408,75,350,96,352,88,153,108,111,244,111,244,152,262,153,255,305" />
+                                <area id="39" title="" href="javascript:void();" shape="poly" coords="254,415,383,413,385,244,406,244,407,154,262,150" />
+                            </map>
+                        </p>
+                    </div>
+                    <div class="four columns level-content mobile"></div>
+                </div>
+                </div>
+            </div>
+            
+            
+            
+            
+            <div data-id="1" class="hide level">
+            <div class="section-container">
+            	<div class="row"><a href="#" style="position:absolute; right:0px; color:black; text-decoration:none; z-index:3000;" class="flr">POWRÓT &lt;&lt;</a>
+                        <a href="assets/images/karty/RF_Pietro_1.pdf" class="get-pdf" style="position:absolute; right:0px;" target="_blank">&nbsp;</a>
+                	<div class="four columns level-content desktop"></div>
+                    <div class="eight columns">
+                    	
+                    	<p align="center">
+                        	<img src="assets/images/rzuty/pietro_1.png" alt="Rezydencja Fryderyk - rzut piętra 1" width="919" height="805" usemap="#map-pietro_1" class="responsive-map  rzut-pietro_1">
+                            <map name="map-pietro_1" id="map-pietro_1">
+                                <area id="21" title="" href="javascript:void();" shape="poly" coords="386,404,516,404,516,576,386,573" />
+                                <area id="22" title="" href="javascript:void();" shape="poly" coords="514,401,748,405,750,575,516,576" />
+                                <area id="23" title="" href="javascript:void();" shape="poly" coords="639,577,888,563,882,758,641,762" />
+                                <area id="24" title="" href="javascript:void();" shape="poly" coords="514,601,639,604,641,767,515,763" />
+                                <area id="25" title="" href="javascript:void();" shape="poly" coords="384,599,513,601,514,767,384,761" />
+                                <area id="26" title="" href="javascript:void();" shape="poly" coords="254,602,381,600,382,760,256,762" />
+                                <area id="27" title="" href="javascript:void();" shape="poly" coords="253,763,66,761,75,413,228,414,258,530" />
+                                <area id="28" title="" href="javascript:void();" shape="poly" coords="226,413,73,411,74,352,93,357,89,155,109,154,108,114,243,112,243,154,258,156,254,305" />
+                                <area id="29" title="" href="javascript:void();" shape="poly" coords="259,155,406,155,405,247,390,247,383,417,255,410" />
+                            </map>
+                        </p>
+                    </div>
+                    <div class="four columns level-content mobile"></div>
+                </div>
+                </div>
+            </div>
+            
+            
+            
+            
+            
+            <div data-id="0" class="hide level">
+            <div class="section-container">
+            	<div class="row"><a href="#" style="position:absolute; right:0px; color:black; text-decoration:none; z-index:3000;" class="flr">POWRÓT &lt;&lt;</a>
+                        <a href="assets/images/karty/RF_Parter.pdf" class="get-pdf" style="position:absolute; right:0px;" target="_blank">&nbsp;</a>
+                	<div class="four columns level-content desktop"></div>
+                    <div class="eight columns">
+                    	
+                    	<p align="center">
+                        	<img src="assets/images/rzuty/parter.png" alt="Rezydencja Fryderyk - rzut parteru" width="919" height="805" usemap="#map-parter" class="responsive-map  rzut-parter">
+                            <map name="map-parter" id="map-parter">
+                                <area id="11" title="" href="javascript:void();" shape="poly" coords="262,140,439,140,436,343,388,341,390,390,256,380" />
+                            </map>
+                        </p>
+                    </div>
+                    <div class="four columns level-content mobile"></div>
+                </div>
+                </div>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+        <div class="content_apart hide">
+
+        </div>
+    </div>
+</section>
+</section>
+
+
+
+
+
+<section class="swiper_3 swiper_gold penthouse2" style="padding-bottom:0px; margin-bottom:0px;" id="penthouse-section"> 
+    <div class="section-container">
+        <div class="section_content row" style="position:relative;">
+        	<h2 data-link="penthouse" style="margin-top:30px; margin-bottom:30px;"><span class="text">PENTHOUSE</span><span class="line"></span></h2>
+			<img src="assets/images/penthouse.jpg" alt="Rezydencja Fryderyk - rzut poziomu penthouse" style="width:100%; height:auto; max-width:100%; padding:0px; margin:0px;">
+		</div>
+		<br>
+			<div class="section_content row" style="color:black;"> 
+                <div class="six columns">
+                    <p align="justify">Na ostatnim piętrze Rezydencji Fryderyk usytuowane są wyjątkowe penthousy. Każdy posiada przestronne, szerokie tarasy oraz panoramiczne, przesuwne okna z systemem żaluzji zewnętrznych, z których rozpościerają się  niezapomniane widoki. 
+W każdym penthousie zostały zminimalizowane ograniczenia konstrukcyjno-instalacyjne, tak aby zapewnić maksymalną elastyczności w zakresie aranżacji przestrzeni i dostosowania </p>
+                </div>
+                <div class="six columns">
+                    <p align="justify">programu do oczekiwań przyszłych mieszkańców. Wysokość penthousów to ponad 300 cm po wykończeniu. Każdy został przygotowany do zainstalowania klimatyzacji.<br><strong>Penthouse Maksymilian</strong> – powierzchnia 239,51 m2 + balkon 30,70 m2 + taras 44,40 m2<br><strong>Penthouse Aleksander</strong> - powierzchnia 181,59 m2 + taras 93,98 m2<br><strong>Penthouse Tadeusz</strong>- powierzchnia 77,12 m2 + taras 44,66 m2</p>
+                </div>
+            </div>
+        </div>
+  </section>  
+
+
+
+
+
+
+
+ <section class="swiper_3 swiper_gold penthouse2"> 
+
+    <div class="section-container2 opis_lok" id="opis-lok-show">
+        <h2><span class="text">WYBIERZ PENTHOUSE</span><span class="line"></span></h2>
+        <div class="content_floor2">
+        
+        <div data-id="6" class="level">
+            <div class="section-container">
+            	<div class="row"><!--<a href="#" style="position:absolute; right:0px; color:black; text-decoration:none; z-index:3000;" class="flr">POWRÓT X</a>-->
+                         <a href="assets/images/karty/RF_Pietro_6_Penthouse.pdf" class="get-pdf" style="position:absolute; right:0px;" target="_blank">&nbsp;</a>
+                	<div class="four columns level-content2 desktop">
+                    	
+                        
+                        <h4 class="level-name" style="color:white; margin:0px; padding:0px; margin-top:100px;">PENTHOUSE</h4>
+                        <div style="height:6px; background:#222222; margin:10px 0px;"></div>
+                        
+                        
+                        <a data-id="1" href="javascript:void();" style="color:#222222; text-decoration:none;" class="hover-map"><div class="row" style="padding:2px; margin-bottom:2px;"><div class="seven columns"><p align="left"><strong>MAKSYMILIAN:</strong></p></div><div class="five columns">&nbsp;</div></div><div style="height:2px; background:#222222;"></div>
+                        <div class="row" style="padding:2px; margin-bottom:2px;"><div class="seven columns"><p align="left">POW. UŻYTKOWA:</p></div><div class="five columns"><p align="center">239,62 m<sup>2</sup></p></div></div>
+                        <div class="row" style="padding:2px; margin-bottom:2px; text-transform:uppercase;"><div class="seven columns"><p align="left">POW. BALKONU</p></div><div class="five columns"><p align="center">30,70 m<sup>2</sup></p></div></div>
+                        <div class="row" style="padding:2px; margin-bottom:2px; text-transform:uppercase;"><div class="seven columns"><p align="left">POW. TARASU</p></div><div class="five columns"><p align="center">44,40 m<sup>2</sup></p></div></div>
+                        </a>
+                        <br>
+                        
+                        
+                        <a data-id="2" href="javascript:void();" style="color:#222222; text-decoration:none;" class="hover-map"><div class="row" style="padding:2px; margin-bottom:2px;"><div class="seven columns"><p align="left"><strong>ALEKSANDER:</strong></p></div><div class="five columns">&nbsp;</div></div><div style="height:2px; background:#222222;"></div>
+                        <div class="row" style="padding:2px; margin-bottom:2px;"><div class="seven columns"><p align="left">POW. UŻYTKOWA:</p></div><div class="five columns"><p align="center">181,59 m<sup>2</sup></p></div></div>
+                        
+                        <div class="row" style="padding:2px; margin-bottom:2px; text-transform:uppercase;"><div class="seven columns"><p align="left">POW. TARASU</p></div><div class="five columns"><p align="center">93,98 m<sup>2</sup></p></div></div>
+                        </a>
+                        <br>
+                        
+                        
+                        
+                        <a data-id="3" href="javascript:void();" style="color:#222222; text-decoration:none;" class="hover-map"><div class="row" style="padding:2px; margin-bottom:2px;"><div class="seven columns"><p align="left"><strong>TADEUSZ:</strong></p></div><div class="five columns">&nbsp;</div></div><div style="height:2px; background:#222222;"></div>
+                        <div class="row" style="padding:2px; margin-bottom:2px;"><div class="seven columns"><p align="left">POW. UŻYTKOWA:</p></div><div class="five columns"><p align="center">77,12 m<sup>2</sup></p></div></div>
+                        
+                        <div class="row" style="padding:2px; margin-bottom:2px; text-transform:uppercase;"><div class="seven columns"><p align="left">POW. TARASU</p></div><div class="five columns"><p align="center">44,66 m<sup>2</sup></p></div></div>
+                        </a>
+                        <br>
+                        
+                        
+                        
+                        
+                    </div>
+                    <div class="eight columns">
+                    	 
+                    	<p align="center" style="margin:0px;">
+                        	<img src="assets/images/rzuty/penthouse.png" alt="Rezydencja Fryderyk - rzut poziomu penthouse" width="944" height="751" usemap="#map-penthouse" class="responsive-map rzut-penthouse" style="width:100%; height:auto;">
+                            <map name="map-penthouse" id="map-penthouse">
+                                <area id="2" title="" href="javascript:void();" shape="poly" coords="31,23,410,26,409,176,374,176,373,311,218,310,223,442,226,535,33,530" />
+                                <area id="3" title="" href="javascript:void();" shape="poly" coords="32,532,228,535,225,562,416,566,416,715,32,713" />
+                                <area id="1" title="" href="javascript:void();" shape="poly" coords="369,338,781,337,783,542,875,547,877,718,419,718,420,562,413,529,370,532" />
+                            </map>
+                        </p>
+                    </div>
+                    <div class="four columns level-content2 mobile">
+                    	<h4 class="level-name" style="color:white; margin:0px; padding:0px; margin-top:100px;">PENTHOUSE</h4>
+                        <div style="height:6px; background:#222222; margin:10px 0px;"></div>
+                        <a data-id="1" href="javascript:void();" style="color:#222222; text-decoration:none;" class="hover-map"><div class="row" style="padding:2px; margin-bottom:2px;"><div class="seven columns"><p align="left"><strong>MAKSYMILIAN:</strong></p></div><div class="five columns">&nbsp;</div></div><div style="height:2px; background:#222222;"></div>
+                        <div class="row" style="padding:2px; margin-bottom:2px;"><div class="seven columns"><p align="left">POW. UŻYTKOWA:</p></div><div class="five columns"><p align="center">239,62 m<sup>2</sup></p></div></div>
+                        <div class="row" style="padding:2px; margin-bottom:2px; text-transform:uppercase;"><div class="seven columns"><p align="left">POW. BALKONU</p></div><div class="five columns"><p align="center">30,70 m<sup>2</sup></p></div></div>
+                        <div class="row" style="padding:2px; margin-bottom:2px; text-transform:uppercase;"><div class="seven columns"><p align="left">POW. TARASU</p></div><div class="five columns"><p align="center">44,40 m<sup>2</sup></p></div></div>
+                        </a>
+                        <br>
+                        
+                        
+                        <a data-id="2" href="javascript:void();" style="color:#222222; text-decoration:none;" class="hover-map"><div class="row" style="padding:2px; margin-bottom:2px;"><div class="seven columns"><p align="left"><strong>ALEKSANDER:</strong></p></div><div class="five columns">&nbsp;</div></div><div style="height:2px; background:#222222;"></div>
+                        <div class="row" style="padding:2px; margin-bottom:2px;"><div class="seven columns"><p align="left">POW. UŻYTKOWA:</p></div><div class="five columns"><p align="center">181,34 m<sup>2</sup></p></div></div>
+                        
+                        <div class="row" style="padding:2px; margin-bottom:2px; text-transform:uppercase;"><div class="seven columns"><p align="left">POW. TARASU</p></div><div class="five columns"><p align="center">94,79 m<sup>2</sup></p></div></div>
+                        </a>
+                        <br>
+                        
+                        
+                        
+                        <a data-id="3" href="javascript:void();" style="color:#222222; text-decoration:none;" class="hover-map"><div class="row" style="padding:2px; margin-bottom:2px;"><div class="seven columns"><p align="left"><strong>TADEUSZ:</strong></p></div><div class="five columns">&nbsp;</div></div><div style="height:2px; background:#222222;"></div>
+                        <div class="row" style="padding:2px; margin-bottom:2px;"><div class="seven columns"><p align="left">POW. UŻYTKOWA:</p></div><div class="five columns"><p align="center">77,12 m<sup>2</sup></p></div></div>
+                        
+                        <div class="row" style="padding:2px; margin-bottom:2px; text-transform:uppercase;"><div class="seven columns"><p align="left">POW. TARASU</p></div><div class="five columns"><p align="center">44,66 m<sup>2</sup></p></div></div>
+                        </a>
+                        <br>
+                    </div>
+                </div>
+                </div>
+            </div>
+        
+        
+        </div>
+        <div class="content_apart2">
+			
+        </div>
+        
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+<section class="parallax-window"  style="background-image:url(assets/images/paralaksa_3.jpg)"></section>
+
+
+
+
+
+
+<section class="swiper_3 swiper_white black" style="padding-bottom:30px;">
+    <div class="section-container ">
+        <h2 data-link="fitout"><span class="text">FITOUT</span><span class="line"></span></h2>
+
+        <div class="section_content row" style="color:black;">
+            <div class="six columns">
+                <p align="justify">Rezydencja Fryderyk to przede wszystkim jej wyjątkowi mieszkańcy. Zdajemy sobie sprawę, że wyjątkowość to także indywidualizm, który na pewno znajdzie odzwierciedlenie w stylu aranżacji i wykończenia wnętrz każdego z apartamentów. W celu zapewnienia najwyższego poziomu obsługi proponujemy przyszłym mieszkańcom Rezydencji Fryderyk nieodpłatne konsultacje w zakresie designu i aranżacji apartamentów oraz zmian lokatorskich, których rezultat może być bazą do zindywidualizowanego projektu wnętrz.</p>
+                <p align="justify">Posiadając kilkunastoletnie doświadczenie nie tylko w projektowaniu, ale także w realizacji "pod klucz" proponujemy, obok nieodpłatnych konsultacji, indywidualne projekty wnętrz wraz z ich realizacją. Tak skonstruowana oferta to przede wszystkim kompleksowa odpowiedź na zindywidualizowane oczekiwania przyszłych mieszkańców Rezydencji Fryderyk w zakresie stylu, charakteru i funkcji ich apartamentów. Kompleksowość oferty indywidualnych projektów wnętrz to nie tylko oszczędność czasu i najwyższa jakość wykonawstwa, ale także gwarancja niepowtarzalności designu każdego apartamentu.</p>
+                <p aligng="justify">Wychodząc naprzeciw oczekiwaniom przyszłych mieszkańców Rezydencji Fryderyk podjęliśmy współpracę z  Pracownią Architektury Wnętrz Decoroom, działającą na rynku od 2009 roku i posiadającą na swoim koncie ponad 1000  realizacji.</p>
+                <p align="justify">Wspólnie z firmą Decoroom prezentujemy trzy programy wykończenia wnętrz:</p>
+                <p align="justify"><a href="assets/images/pakiety/Pakiet_Standard.pdf"><img style="margin:5px 0px 5px 10px;" align="right" height="30" width="auto" src="assets/images/pobierz.png"></a><strong>Pakiet Standard</strong>, to pakiet w którym zgromadzone są wysokiej jakości produkty w konkurencyjnej cenie, pozwalające urządzić mieszkanie w relatywnie niedużym budżecie.</p>
+            </div>
+            <div class="six columns">
+                <p align="justify"><a href="assets/images/pakiety/Pakiet_Premium.pdf"><img style="margin:5px 0px 5px 10px;" align="right" height="30" width="auto" src="assets/images/pobierz.png"></a><strong>Pakiet Premium</strong> przygotowany dla wymagających klientów, ceniących wysoką jakość materiałów, nowoczesny design i wysmakowane detale.</p>
+                <p align="justify"><a href="assets/images/pakiety/Pakiet_VIP.pdf"><img style="margin:5px 0px 5px 10px;" align="right" height="30" width="auto" src="assets/images/pobierz.png"></a><strong>Pakiet VIP</strong> – prestiżowy pakiet dla klientów poszukujących luksusu, elegancji, wyrafinowanego stylu i najwyższej jakości materiałów. Pakiet ten dedykowany jest dla osób, które oczekują nietypowych, nowatorskich rozwiązań i świeżych pomysłów.</p>
+                <p align="justify">Główne atuty oferty programów wykończenia wnętrz firmy Decoroom to:
+                                    <ul>
+                                    <li>niższy koszt VATu - 8% zamiast 23%</li>
+                                    <li>najwyższej jakości materiały renomowanych producentów</li>
+                                    <li>gwarancja 24 miesizące</li>
+                                    <li>fachowa pomoc projektanta podczas aranżacji wnętrz</li>
+                                    <li>przygotowanie wizualizacji 3D łazienki w cenie pakietu</li>
+                                    <li>profesjonalny nadzór nad realizacją prac wykończeniowych</li>
+                                    <li>gwarantowany termin wykonania</li>
+                                    <li>przede wszystkim oszczędność czasu i pieniędzy dzięki kompleksowym pakietom aranżacyjnym.</li>
+                                    </ul>
+</p>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="twelve columns">
+                <img src="assets/images/fitout.jpg" alt="Rezydencja Fryderyk - fitout">
+            </div>
+
+            
+        </div>
+
+    </div>
+</section>
+
+
+
+
+
+<section class="swiper_3 swiper_gold" style="padding-bottom:50px;">
+    <div class="section-container">
+        <h2 data-link="inwestor_architekt"><span class="text">INWESTOR / ARCHITEKT</span><span class="line"></span></h2>
+
+			
+            
+                	<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:black;" class="desktop">
+                    	<tr style="border:none; background:black;">
+                        	<td valign="bottom" align="left" width="30%" style="padding-bottom:0px; border:none;"><img src="assets/images/jaromir_szmyd.png" alt="Jaromir Szmyd" width="100%" height="auto" style="display:block; margin-bottom:0px;"></td>
+                            <td valign="top" style="padding:5%; border:none; background:black;">
+                            	<p align="center"><img src="assets/images/szmyd_partners.png" alt="Szmyd Partners logo" width="30%" height="auto"></p><br><br>
+<p align="justify">Inwestorem Rezydencji Fryderyk jest Szmyd &amp; Partners - firma deweloperska założona przez  Jaromira Szmyda - architekta i dewelopera. Jaromir Szmyd posiada ponad 20 letnie doświadczenie w branży nieruchomości i architektury. Jest generalnym projektantem w firmie architektonicznej Szmyd Architects. Jako prezes zarządu i udziałowiec firmy Capitol Real Estate zdobył doświadczenie w zakresie realizacji projektów deweloperskich będąc zaangażowanym w kompleksową obsługę deweloperską projektów: Atelier Żoliborz (342 mieszkania, inwestor: Atelier Żoliborz sp. z o.o.) oraz Atelier Residence (250 mieszkań, inwestor: SRF sp. z o.o.) w Warszawie. <br><br>
+
+Wieloletnie doświadczenie założyciela firmy owocuje pełnym  zaangażowaniem na każdym etapie procesu deweloperskiego, które jest możliwe dzięki dogłębnej świadomości każdego jego elementu. Wyróżnia nas to, że nie tylko widzimy w naszych realizacjach produkt biznesowy, ale także, jako architekci,  mamy poczucie odpowiedzialności za jakość architektury i przestrzeni, którą tworzymy nie tylko dla naszych klientów, ale także dla przyszłych pokoleń. Umiejętność zdefiniowania potrzeb przyszłych mieszkańców i przeniesienia ich na funkcję i formę architektury jest wyróżnikiem działalności deweloperskiej Szmyd & Partners. Wykorzystując  ponad 20 letnie doświadczenie w projektowaniu architektonicznym mamy świadomość, że dla naszych klientów równie ważne jak sama jakość designu jest funkcjonalność i komfort użytkowania, a także gwarancja dobrze zainwestowanych środków finansowych w zakup apartamentu.<br><br>
+
+Dzięki tej świadomości i naszemu doświadczeniu możemy wdrażać naszą misję w życie, którą jest tworzenie ponadczasowych budynków będących odzwierciedleniem pełnego spektrum oczekiwań i potrzeb naszych klientów. </p>
+                            
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td colspan="2" style="padding:0;"><img src="assets/images/realizacje.png" alt="Szmyd Partners - realizacje" width="100%" height="auto" style="display:block;"></td>
+                        </tr>
+                        
+                    </table>
+                    
+                    
+                    
+                    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:black;" class="mobile">
+                    	<tr style="border:none;background:black;">
+                            <td valign="middle" align="center" style="padding:5%; border:none;">
+                            	<img src="assets/images/szmyd_partners.png" alt="Szmyd Partners logo" style="width:50%!important;">
+                            </td>
+                        </tr>
+                        <tr style="border:none;background:black;">
+                        	<td style="padding:5%;"><p align="justify">Inwestorem Rezydencji Fryderyk jest Szmyd &amp; Partners - firma deweloperska założona przez  Jaromira Szmyda - architekta i dewelopera. Jaromir Szmyd posiada ponad 20 letnie doświadczenie w branży nieruchomości i architektury. Jest generalnym projektantem w firmie architektonicznej Szmyd Architects. Jako prezes zarządu i udziałowiec firmy Capitol Real Estate zdobył doświadczenie w zakresie realizacji projektów deweloperskich będąc zaangażowanym w kompleksową obsługę deweloperską projektów: Atelier Żoliborz (342 mieszkania, inwestor: Atelier Żoliborz sp. z o.o.) oraz Atelier Residence (250 mieszkań, inwestor: SRF sp. z o.o.) w Warszawie. <br><br>
+
+Wieloletnie doświadczenie założyciela firmy owocuje pełnym  zaangażowaniem na każdym etapie procesu deweloperskiego, które jest możliwe dzięki dogłębnej świadomości każdego jego elementu. Wyróżnia nas to, że nie tylko widzimy w naszych realizacjach produkt biznesowy, ale także, jako architekci,  mamy poczucie odpowiedzialności za jakość architektury i przestrzeni, którą tworzymy nie tylko dla naszych klientów, ale także dla przyszłych pokoleń. Umiejętność zdefiniowania potrzeb przyszłych mieszkańców i przeniesienia ich na funkcję i formę architektury jest wyróżnikiem działalności deweloperskiej Szmyd & Partners. Wykorzystując  ponad 20 letnie doświadczenie w projektowaniu architektonicznym mamy świadomość, że dla naszych klientów równie ważne jak sama jakość designu jest funkcjonalność i komfort użytkowania, a także gwarancja dobrze zainwestowanych środków finansowych w zakup apartamentu.<br><br>
+
+Dzięki tej świadomości i naszemu doświadczeniu możemy wdrażać naszą misję w życie, którą jest tworzenie ponadczasowych budynków będących odzwierciedleniem pełnego spektrum oczekiwań i potrzeb naszych klientów. </p></td>
+                        </tr>
+                        <tr>
+                        	<td colspan="2" style="padding:0;"><img src="assets/images/realizacje.png" alt="Szmyd Partners - realizacje" width="100%" height="auto" style="display:block;"></td>
+                        </tr>
+                        
+                    </table>
+            
+            
+            
+
+
+
+        
+        
+        
+        
+        
+        <br><br>
+        <h2 class="no_margin"><span class="text">GENERALNY WYKONAWCA</span><span class="line"></span></h2>
+        <img src="assets/images/generalny_wykonawca.jpg" alt="Szmyd Partners - Generalny Wykonawca" width="100%" height="auto" style="display:block;">
+        
+        <br><br>
+        <h2 class="no_margin"><span class="text">BEZPIECZEŃSTWO FINANSOWE</span><span class="line"></span></h2>
+        <img src="assets/images/bezpieczenstwo_finansowe.jpg" alt="Rezydencja Fryderyk - bezpieczeństwo finansowe" width="100%" height="auto" style="display:block;">
+        
+        
+       
+       
+    </div>
+</section>
+
+
+
+
+
+
+<section class="swiper_3 swiper_white black" style="padding-bottom:50px;">
+    <div class="section-container">
+        <h2 data-link="broszury" style="margin:40px 0px;"><span class="text">BROSZURY</span><span class="line"></span></h2>
+        <div style="background:#c49867; padding:25px 50px 0px 50px; text-align:center; color:white;">
+            <div class="row">
+                <div class="twelve column">
+                    <h3>FOLDER</h3>
+                    <div>
+                        <p align="center">&nbsp;&nbsp;&nbsp;<a href="assets/RezydencjaFryderyk_folder.pdf" target="_blank"><img src="assets/images/pobierz.png" alt="Przycisk pobierz" style="height:70px!important; width:auto!important;" ></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<section class="parallax-window"  style="background-image:url(assets/images/paralaksa_4.jpg)"></section>
+
+
+
+
+<section class="swiper_3 kontakt" style="padding-bottom:20px;">
+    <div class="section-container">
+        <h2 data-link="kontakt"><span class="text">KONTAKT</span><span class="line"></span></h2>
+        <div class="row">
+            <div class="six columns">
+                <form id="contact-form">
+                    <div>
+                        <label>
+                            <input type="text" name="name" placeholder="IMIĘ I NAZWISKO (WYMAGANE)">
+                        </label>
+                        <label>
+                            <input type="email" name="email" placeholder="ADRES E-MAIL (WYMAGANE)">
+                        </label>
+                        <label>
+                            <input type="text" name="subject" placeholder="TEMAT">
+                        </label>
+                        <label>
+                            <textarea cols="5" name="message" rows="5" placeholder="TREŚć"></textarea>
+                        </label> <div id="contact-response" style="color:white!important; text-transform:uppercase!important; font-weight:bold!important;">&nbsp;</div>
+                        <label>
+                            <input type="button" id="submit-contact-form" value="WYŚLIJ">
+                        </label>
+                    </div>
+                </form>
+            </div>
+            <div class="six columns" style="color:white!important;">
+                <p>
+                    BIURO SPRZEDAŻY
+                    <br><br>
+                    Szmyd &amp; Partners Sp. z o.o. sp.k.<br>
+                   ul. Bagno 2, wejście D, piętro 2<br>
+                   00-112 Warszawa<br>
+                   
+                   <p>
+                   PUNKT INFORMACYJNY NA TERENIE INWESTYCJI
+                    <br><br>
+                   ul. F. Joliot-Curie 28<br>
+                   02-646 Warszawa<br><br>
+                </p>
+                   
+                   tel. <a href="tel:+48696188000">+ 48  696 188 000</a><br>
+                   tel. <a href="tel:224188000">+ 48 224 188 000</a><br>
+                  <a href="mailto:sprzedaz@rezydencjafryderyk.pl">sprzedaz@rezydencjafryderyk.pl</a><br>
+                   <a href="http://www.rezydencjafryderyk.pl">www.rezydencjafryderyk.pl</a>
+                </p>
+                   <a href="https://www.facebook.com/RezydencjaFryderyk" target="_blank" class="l_fb">ODWIEDŹ nas na Facebook'u</a><br><br>
+                   <a href="https://www.instagram.com/rezydencjafryderyk/" target="_blank" class="l_fb2">ODWIEDŹ nas na Instagram'ie</a>
+            </div>
+            
+        </div>
+        </div>
+
+</section>
+<section style="background:#352925;">
+     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDhz8YSatutDRtfDNhppRFAD5_09qD7DxQ"></script>
+     
+    <table width="100%" cellpadding="0" border="0" cellspacing="0">
+    	<tr>
+        	<td width="50%" style="padding:0px 5px 0px 0px; position:relative;">
+
+
+<div id="map_canvas" style="width:100%; height:100%; position:absolute;top:0px;"><iframe id="google_map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.4042976440996!2d21.00324041578776!3d52.2360397797613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc8bcb358b2d%3A0xfb69e1e7415c44e6!2sBagno+2%2C+00-112+Warszawa!5e0!3m2!1sen!2spl!4v1474936112228" width="100%" height="100%" frameborder="0" style="border:0px; width:100%; height:100%;"></iframe></div>
+
+</td>
+            <td width="50%" style="padding:0px 0px 0px 5px;"><img src="assets/images/mapa.jpg" alt="Rezydencja Fryderyk - lokalizacja - mapa" width="100%" height="auto" id="mapa-alt" style="display:block; border:none;"> </td>
+        </tr>
+    </table>
+    
+    
+    
+    
+   
+    <script>
+	
+	var isIE = !!navigator.userAgent.match(/Trident/g) || !!navigator.userAgent.match(/MSIE/g);
+
+		if(isIE){
+		 //document.getElementById("map_canvas").style.display="none";
+		}
+		else{
+			//document.getElementById("google_map").style.display="none";
+		 var map;
+	function initialize() {
+
+        var myLatLng = new google.maps.LatLng(52.236138, 21.005418);
+
+        var map_canvas = document.getElementById('map_canvas');
+
+        var map_options = {
+        center: new google.maps.LatLng(52.236138, 21.005418),
+        zoom: 16,
+                mapTypeControl: false,
+                panControl: false,
+        zoomControlOptions: {
+                    position: google.maps.ControlPosition.LEFT_CENTER
+        },
+        streetViewControl: false,
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+    }
+
+    map = new google.maps.Map(map_canvas, map_options);
+
+        var contentString =
+            '<br><p align="center"><img src="assets/images/logomap.png" alt="Logo Rezydencja Fryderyk" style="margin-right:-20px;" /></p>'+
+			'<b>Rezydencja Fryderyk</b>' +
+            '<p>ul. Bagno 2</p>';
+
+        var infowindow = new google.maps.InfoWindow({
+            content: contentString
+        });
+
+        var marker = new google.maps.Marker({
+            position: myLatLng,
+            map: map,
+        });
+
+        google.maps.event.trigger(map, 'resize');
+
+        google.maps.event.addListener(marker, 'click', function(){
+            infowindow.open(map,marker);
+        });
+
+    }
+
+    google.maps.event.addDomListener(window, 'load', initialize);	
+	
+
+	google.maps.event.addDomListener(window, "resize", function() {
+	   var center = map.getCenter();
+	   google.maps.event.trigger(map, "resize");
+	   map.setCenter(center); 
+	});	   
+		}
+	
+	
+	
+	
+	
+	
+
+</script>
+
+
+
+   
+
+</section>
+<footer id="footer" style="margin-top:-27px; margin-bottom:0px; padding-bottom:15px;">
+    <p align="center">© REZYDENCJA FRYDERYK.  ALL RIGHTS RESERVED.  2016</p>
+    <p align="center">WIZUALIZACJE, ELEMENTY WYPOSAŻENIA I SPRZĘT ZAPREZENTOWANE W TYM DOKUMENCIE NIE STANOWIĄ OFERTY HANDLOWEJ W ROZUMIENIE KODEKSU CYWILNEGO I NIE SĄ WIĄŻĄCE DLA STRON.<br>ZOSTAŁY ONE SPORZĄDZONE JEDYNIE W CELACH ZOBRAZOWANIA WIZJI ARCHITEKTA I ARTYSTY I ZAMIESZCZONE ZOSTAŁY TU TYLKO W CHARAKTERZE PRZYKŁADU.</p>
+</footer>
+</div>
+<script type="text/javascript" src="assets/javascripts/jquery.js"></script>
+
+
+
+<script type="text/javascript" src="assets/javascripts/jquery.rwdImageMaps.min.js"></script>
+<script type="text/javascript" src="assets/javascripts/update.js"></script>
+
+
+</body>
+</html>

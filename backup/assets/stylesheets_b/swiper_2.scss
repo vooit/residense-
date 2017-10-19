@@ -1,0 +1,140 @@
+#swiper_2{
+  position: relative;
+  background: #c49867;
+  padding-bottom:120px;
+  .bg_white {
+    position: absolute;
+    z-index:1;
+    width:100%;
+    height:50%;
+    background: #fff;
+  }
+  .section-container {
+    max-width: 1200px;
+    margin:0 auto;
+    position: relative;
+    z-index:2;
+    .swiper-slide {
+      position: relative;
+    }
+    h2 {
+      color: $gold;
+      text-align: center;
+      font-family:Lato;
+      font-weight: 600;
+      position: relative;
+      margin-top:130px;
+      margin-bottom:50px;
+      font-size:26px;
+      .text {
+        padding:0 70px;
+        background: #fff;
+        display: inline-block;
+        position: relative;
+        z-index:2;
+      }
+      .line {
+        background: $gold;
+        width:100%;
+        height:4px;
+        display: block;
+        position: absolute;
+        bottom:6px;
+        z-index:1;
+      }
+    }
+
+  }
+  .slide_mouse_over {
+    position: absolute;
+    width:0;
+    height:100%;
+    left:0;
+    top:0;
+    overflow: hidden;
+  }
+  .swiper-pagination {
+    position: relative;
+    margin-top:20px;
+  }
+  .slider_move {
+    background: none;
+    border:0;
+    position: absolute;
+    bottom:0;
+    height:100%;
+    width: calc(100% - 12px);
+    .ui-slider-handle {
+      margin-left:0;
+      top:0;
+      height:100%;
+      background: url(../images/slider.png) no-repeat;
+      width:12px;
+      @extend .out;
+      border:0;
+      position: absolute;
+      z-index: 20;
+      cursor:pointer;
+    }
+  }
+  .section_content {
+    color: #fff;
+    font-family:Lato;
+    font-weight: 400;
+    font-size:12px;
+    line-height:20px;
+    text-align: justify;
+    strong {
+      display: inline-block;
+    }
+    div:first-child {
+      padding-right:20px;
+    }
+    div:last-child {
+      padding-left:20px;
+    }
+  }
+}
+
+
+@media only screen and (max-width: 1024px) {
+  #swiper_2 {
+    padding-bottom:20px;
+  }
+  #swiper_2 .section-container h2 {
+    margin-top:50px;
+  }
+  .swiper-container {
+    margin:0 30px;
+  }
+  .swiper-slide {
+    img {
+      width:100%;
+      float: left;
+    }
+  }
+  #swiper_1 {
+    .swiper-slide {
+      img {
+        width:100%;
+        float: none;
+      }
+    }
+  }
+  #swiper_2 .bg_white {
+    height:30%;
+  }
+  #swiper_2 {
+    .section_content {
+      padding:0 20px;
+    }
+    .six.columns {
+      width:100%;
+      padding:0!important;
+      margin:0;
+    }
+  }
+  #swiper_2 .slider_move .ui-slider-handle {
+    background-size: auto 100%;
+  }
+}

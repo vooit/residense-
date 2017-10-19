@@ -1,0 +1,191 @@
+.toggleSwitch {
+	position: absolute;
+	top:30px;
+	right: 30px;
+	z-index: 20;
+	width: 91px;
+	height: 17px;
+}
+
+.toggleSwitch a {
+	width: 91px;
+	height: 17px;
+	margin: 0;
+	padding: 0;
+	cursor: pointer;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+
+.toggleSwitch a.contact {
+	background-image: url('img/contact.png');
+}
+
+.toggleSwitch a.close {
+	background-image: url('img/close.png');
+}
+
+.slides-pagination {
+	display: none;
+}
+
+.contactFormContainer {
+	z-index: 19;
+	position: absolute;
+	left: 0;
+	top: 0;
+	background-color: rgba(0,0,0,0.5);
+	width: 100%;
+	display: none;
+}
+
+.contactForm {
+	width: 1301px;
+	height: 599px;
+	background-color: #352925;
+}
+
+.contactForm.slim {
+	width: 619px;
+	height: auto;
+}
+
+.contactForm.full {
+	width: 95%;
+	
+}
+
+.contactForm h1 {
+	border-bottom:3px solid #f0f0ee;
+	color: #f0f0ee;
+	margin: 80px 51px 0;
+	text-align: center;
+	font-family: Lato;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+.contactForm h1 span {
+	background-color: #352925;
+	position: relative;
+	bottom: -8px;
+	padding: 0 60px ;
+	
+}
+
+
+.contactForm .leftCol {
+	float: left;
+	width: 52%;
+	margin: 51px;
+}
+
+.contactForm .rightCol {
+	float: right;
+	width: 40%;
+	color: #f0f0ee;
+	text-decoration: none;
+	font-family: Lato;
+	margin-top: 32px;
+}
+
+.contactForm .rightCol a {
+	text-decoration: none;
+	color: #f0f0ee;
+}
+
+
+
+
+.contactForm.slim .leftCol{
+	
+	display: none;
+	
+}
+.contactForm.slim .rightCol {
+	width: 100%;
+	float:none;
+	margin: 51px;
+}
+
+.contactForm input[type="text"], input[type="email"], .contactForm textarea {
+	background-color: #504642;
+	width: 100%;
+	border: 0;
+	padding: 5px 0 0 5px;
+	margin-bottom: 20px;
+	color: white;
+}
+
+.contactForm input[type="image"] {
+	float: right;
+	position: relative;
+	right: -5px;
+}
+
+.contactForm input[type="image"]:after {
+	clear: both;
+}
+
+.contactForm input[type="text"], input[type="email"] {
+	height: 30px;
+}
+
+
+.contactForm textarea {
+	height: 150px;
+}
+
+::-webkit-input-placeholder {
+	color: white;
+}
+
+:-moz-placeholder {
+	color: white;
+}
+
+::-moz-placeholder {
+	color: white;
+}
+
+:-ms-input-placeholder {
+	color: white;
+}
+
+input::-webkit-input-placeholder {
+   color: white;
+   position: relative;
+   top: -10px;
+}
+
+input:-moz-placeholder { /* Firefox 18- */
+   color: white;
+   position: relative;
+   top: -10px;
+}
+
+input::-moz-placeholder {  /* Firefox 19+ */
+   color: white;
+   position: relative;
+   top: -10px;
+}
+
+input:-ms-input-placeholder {  
+   color: white;  
+   position: relative;
+   top: -10px;
+}
+
+.verticalOverlay {
+	z-index: 22;
+	background-color: #000;
+	background-image: url('img/vertical.png');
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: none;
+}

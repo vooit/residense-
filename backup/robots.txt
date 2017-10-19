@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+Disallow: /index_backup
+Disallow: /slider_backup
+Disallow: /assets
+
+Sitemap: http://rezydencjafryderyk.pl/sitemap.xml
+

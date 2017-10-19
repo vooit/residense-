@@ -1,0 +1,105 @@
+.select_apart {
+  h3 {
+    font-size:24px;
+    span {
+      font-size:15px;
+      color:#352925;
+      display: block;
+    }
+  }
+  .rezydencja {
+    width:100%;
+    margin-top:80px;
+    height:505px;
+    background: url(../images/rezydencja.png) no-repeat;
+
+    li {
+      margin:0;
+      position: relative;
+      list-style: none;
+      &.lh70 {
+        a {
+          height:75px;
+          line-height:20px;
+          .subhouse {
+            text-transform: uppercase;
+          }
+        }
+      }
+      &.lh80 {
+        a {
+          line-height:80px;
+          display: block;
+        }
+      }
+      &.lh60 {
+        a {
+          line-height:65px;
+          display: block;
+        }
+      }
+      &.lh30 {
+        a {
+          line-height:52px;
+          display: block;
+        }
+      }
+      a {
+        line-height:70px;
+        display: block;
+        color:#000;
+        text-decoration: none;
+        .hover {
+          display: block;
+          width:80%;
+          right:9%;
+          top:0;
+          position: absolute;
+          height:100%;
+
+        }
+        &:hover {
+          background: rgba(255,255,255,0.4);
+          color:$gold;
+        }
+      }
+
+    }
+
+
+
+
+  }
+
+}
+@media only screen and (max-width: 768px) {
+
+  .select_apart .rezydencja {
+    margin-top:50px;
+    -webkit-background-size:100% auto;
+    background-size:100% auto;
+  }
+  .select_apart {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .select_apart .rezydencja {
+    margin-top:50px;
+    -webkit-background-size:100% auto;
+    background-size:100% auto;
+
+  }
+  .select_apart .rezydencja li.lh80 a {
+    line-height:56px;
+  }
+  .select_apart .rezydencja li a {
+    line-height:55px;
+  }
+  .select_apart .rezydencja li.lh60 a {
+    line-height:55px;
+  }
+  .select_apart .rezydencja li.lh30 a {
+    line-height:29px;
+  }
+}
